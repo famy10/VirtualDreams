@@ -2,7 +2,7 @@
 
 # EVALUACIÓN PRÁCTICA DE VIRTUAL DREAMS
 
-EJERCICIO 2
+## EJERCICIO 2
 
 ¿Qué es un servidor HTTP? Cuando hablamos de servidor HTTP hablamos de hw y sw. El hw del servidor HTTTP puede ser una computora o un conjunto de las mismas las cuales tienen sw alojado. En su conjunto conforma un servidor HTTP. Los clientes acceden a dicho servidor HTTP a través de internet por medio de un dominio. Un servidor HTTP tiene URL y protocolo de navegación HTTP.
 
