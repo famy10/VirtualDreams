@@ -60,7 +60,7 @@ Explique brevemene que es REST Full Es una API que fue diseñada bajo los concep
 
 El Content-type en un header le indica al cliente que tipo de contenido será retornado. O sea le permite a un cliente indicarle al servidor, en que formato envia los datos. Así el servidor procesa los datos sin problemas.
 
-EJERCICIO 3
+## EJERCICIO 3
 
 Recomendamos previamente entender los conceptos de la sintaxis “json” antes de arrancar con los ejercicios. Descargar el POSTMAN (aplicación para realizar request como cliente), adjuntando un screen de resolución para cada ítem:
 
@@ -223,11 +223,11 @@ Se documenta; arroja lo siguiente:
 }
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3? La diferencia, es que luego de hacer el post, se le agrego un nuevo id a Pablo cuyo correo es pablo.perez@virtualdreams.io, O sea creé un nuevo registro
 
-EJERCICIO 4
+## EJERCICIO 4
 
 URL: https://trailblazer.me/id/cfamiglietti2
 
-EJERCICIO 5
+## EJERCICIO 5
 
 LEAD: Representa un cliente potencial de venta. Es cun cliente potencial para mi producto o para mi empresa. Los datos que almacena de forma estándar son
 
@@ -489,7 +489,7 @@ Adjunto la relacipon entre objetos en el siguiente link publico de drive:
 
 LINK DEL DIAGRAMA
 
-EJERCICIO 6
+## EJERCICIO 6
 
 A. Consultar tu ID haciendo un GET con POSTMAN a este WS: https://vdfactory-234311.firebaseio.com/contacts.json
 
@@ -593,9 +593,9 @@ trigger TriggerEjercicio6_c on Contact (before insert, before update) {
         }
     }    
 }
-EJERCICIO 7
+## EJERCICIO 7
 
-SOLUCIONES DE SALESFORCE
+### SOLUCIONES DE SALESFORCE
 
 A. ¿Qué es Salesforce? Salesforce es una compañía PaaS (Plataforma como Servicio) para desarrollar aplicaciones desde internet. Es una plataforma que facilita la relación comerciales con los clientes (Conocido como CRM), mateniendo un contacto contínuo con los mismos. Produce un CRM llamado Sales Cloud. O sea basa su plataforma en la nube para que ventas, marketing, comercio electrónico y servicio al cliente puedan tener una visión unificada del cliente usando tecnología B2B (de empresa a empresa) y B2C (de la empresa al consumidor final)
 
